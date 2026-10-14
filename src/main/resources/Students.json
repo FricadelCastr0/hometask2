@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Сафин",
+    "books": [
+      { "title": "Война и мир", "author": "Толстой", "pages": 1225, "year": 1869 },
+      { "title": "1984", "author": "Оруэлл", "pages": 328, "year": 1949 },
+      { "title": "Краткая история времени", "author": "Хокинг", "pages": 256, "year": 2001 },
+      { "title": "Java 8 в действии", "author": "Урма", "pages": 400, "year": 2015 },
+      { "title": "Чистый код", "author": "Мартин", "pages": 450, "year": 2008 }
+    ]
+  },
+  {
+    "name": "Несафин",
+    "books": [
+      { "title": "Преступление и наказание", "author": "Достоевский", "pages": 672, "year": 1866 },
+      { "title": "1984", "author": "Оруэлл", "pages": 328, "year": 1949 },
+      { "title": "Sapiens", "author": "Харари", "pages": 443, "year": 2011 },
+      { "title": "Эффективный Java", "author": "Блох", "pages": 400, "year": 2018 },
+      { "title": "Паттерны проектирования", "author": "Банда четырех", "pages": 400, "year": 1994 }
+    ]
+  },
+  {
+    "name": "Петров",
+    "books": [
+      { "title": "Мастер и Маргарита", "author": "Булгаков", "pages": 480, "year": 1966 },
+      { "title": "Дюна", "author": "Герберт", "pages": 688, "year": 1965 },
+      { "title": "Java 8 в действии", "author": "Урма", "pages": 400, "year": 2015 },
+      { "title": "Алгоритмы", "author": "Кормен", "pages": 1300, "year": 2010 },
+      { "title": "Грокаем алгоритмы", "author": "Бхаргава", "pages": 280, "year": 2017 }
+    ]
+  },
+  {
+    "name": "Нестеров",
+    "books": [
+      { "title": "Анна Каренина", "author": "Толстой", "pages": 864, "year": 1877 },
+      { "title": "Совершенный код", "author": "Макконнелл", "pages": 800, "year": 2004 },
+      { "title": "Чистый код", "author": "Мартин", "pages": 450, "year": 2008 },
+      { "title": "Искусство программирования", "author": "Кнут", "pages": 672, "year": 1968 },
+      { "title": "Head First Java", "author": "Сьерра", "pages": 692, "year": 2003 }
+    ]
+  }
+]
